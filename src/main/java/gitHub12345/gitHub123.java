@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class gitHub123 {
 	@Test
 	public void delet() {
-		System.out.println("Today is ");
+		System.out.println("Today is   ");
 	}
 	}
 
