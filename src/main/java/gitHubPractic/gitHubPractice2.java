@@ -7,8 +7,11 @@ public class gitHubPractice2 {
 public void delete() {
 	System.out.println("Sussessfully delete");
 	System.out.println("hiii");
+	System.out.println("pankaj");
+	System.out.println("Amit");
 	
 }
-	System.out.println("pankaj")
+	
 		
 }
+
